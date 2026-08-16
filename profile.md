@@ -1,31 +1,48 @@
 # Research Identity Profile
 
-_Last updated: 2026-08-10_
+_Last updated: 2026-08-16_
 
 ## Evidence boundary
 
-This profile treats GitHub as evidence of completed/older work and searched Notion for newer plans. The accessible Notion scope returned earlier audit pages but no original lab notebook, experiment plan, or active-project page, so no new direction is promoted to “current” from derivative summaries alone. No research-area reference file was available in the conversation workspace.
+This is the maintained research-area reference for the **84-message Gmail Promotions audit covering June 15 through August 14, 2026**. The profile was reconciled against the accessible GitHub portfolio and targeted Notion searches before any email was classified. GitHub provides direct project evidence; Notion returned the existing audit pages but no independent active-project, experiment-plan, or lab-note page. Therefore, derivative Notion summaries were used only to cross-check established areas, not to invent new directions.
 
 ## Current core areas
 
-- **Generalizable and personalized EMG/biosignal decoding.** Focus: cross-session, cross-subject, and cross-dataset robustness for gesture and motor decoding. Evidence: [EMG-GNN](https://github.com/Hunminlee/EMG-based-Gesture-Classification-using-Graphs-and-GNN), [Cross-motor-decoding](https://github.com/Hunminlee/Cross-motor-decoding), and [MindForce neural decoding](https://github.com/Hunminlee/Neural_Computing_Interface_MindForce).
-- **Neural decoding, rehabilitation, and robust human–machine interfaces.** Evidence: MindForce targets peripheral-nerve gesture decoding across sessions and subjects; EMG-GNN explicitly links interpretable muscle-activation modeling to rehabilitation.
-- **Adaptation, personalization, and federated/prototype learning under heterogeneity.** Evidence: [FedPML](https://github.com/Hunminlee/FedPML), [FPAL/modulation classification](https://github.com/Hunminlee/Federated-Prototype-Adaptation-Learning-for-modulation-classification), Cross-motor-decoding, and MindForce's domain-adaptation/personalization goals.
+- **Generalizable and personalized EMG/biosignal gesture and motor decoding.** The central application problem is robustness across sessions, subjects, datasets, devices, and sensor configurations. Evidence: [EMG-GNN](https://github.com/Hunminlee/EMG-based-Gesture-Classification-using-Graphs-and-GNN), [Cross-motor-decoding](https://github.com/Hunminlee/Cross-motor-decoding), and the active neural-decoding repositories.
+- **Peripheral-neural decoding, rehabilitation, and robust human–machine interfaces.** [MindForce](https://github.com/Hunminlee/Neural_Computing_Interface_MindForce) explicitly targets inter-session and inter-subject gesture decoding from radial and ulnar nerve signals; EMG-GNN connects interpretable sensor graphs with rehabilitation.
+- **Adaptation, personalization, and federated/prototype learning under heterogeneity.** Evidence: [FedPML](https://github.com/Hunminlee/FedPML), [FPAL](https://github.com/Hunminlee/Federated-Prototype-Adaptation-Learning-for-modulation-classification), Cross-motor-decoding, and MindForce.
 
-## Secondary or related areas
+## Adjacent areas
 
-- **Graph neural networks and interpretable biomedical machine learning.** Evidence: EMG-GNN models spatial/temporal electrode relationships and interpretable muscular activation.
-- **Distributed IoT learning and automatic modulation classification.** Evidence: FPAL and FedPML; methodologically related, but the wireless application is not the main identity.
-- **Human-centered AI, HRD, and organizational analytics.** Evidence: [HRD competency modeling](https://github.com/Hunminlee/Deciphering_HRD_features_in_competency) and [human–AI integration in HRD](https://github.com/Hunminlee/Integrating-AI-HI---HRD); genuine collaborative work, but secondary to the biomedical/neural-decoding line.
+- **Graph neural networks and interpretable biomedical machine learning.** Closely coupled to the core EMG line, but also visible as a broader method/application area.
+- **Distributed IoT learning and automatic modulation classification.** FPAL and FedPML support a real wireless/distributed-learning line; it is methodologically close but not the primary biomedical identity.
+- **Human-centered AI, HRD, and organizational analytics.** [HRD competency modeling](https://github.com/Hunminlee/Deciphering_HRD_features_in_competency) and [human–AI integration in HRD](https://github.com/Hunminlee/Integrating-AI-HI---HRD) show genuine collaborative work, secondary to neural/biosignal decoding.
 
-## Historical areas
+## Older research directions
 
-- **Capacitive/electric-field sensing and hand-motion interfaces.** Genuine earlier work, but it should not be presented as the current center of gravity. Evidence and date lineage are summarized in the existing [Notion audit](https://app.notion.com/p/3b677b24e716818db3e8f4101134afa4).
+- **Capacitive/electric-field sensing and hand-motion interfaces.** Exact-title alerts for “Real-time Interface Control...” and “A BPRCNN Based Hand Motion Classifier...” map to genuine work, but this is now historical rather than current.
+- **Adversarial NLP and general AI security.** The prior Notion audit supports earlier participation, but accessible recent GitHub evidence does not sustain it as a current line.
 
-## Labels that would misrepresent current work
+## Audit decision rules
 
-- Generic **“AI,” “machine learning,” “computer science,” or “engineering”** without the biosignal/generalization context.
-- Generic **“BCI”** when the evidence is primarily EMG and peripheral-nerve decoding rather than brain-recording interfaces.
-- **Capacitive sensing** presented as current rather than historical.
-- **Chemistry, materials science, physical sciences, or protein research** inferred from name-only alerts.
-- Treating every **“Hunmin Lee” or “H. Lee” citation/mention** as the user's work without a matching title, authors, venue, or DOI.
+- An exact known paper title outweighs a broad platform-generated field label.
+- Name-only or initials-only alerts stay in **Needs Review**, even when the field sounds plausible.
+- Exact-title federated/adaptive-learning alerts map to **Current Research**.
+- Exact-title capacitive/electric-field alerts map to **Adjacent or Historical**.
+- Generic recommendations, upsells, sales, consumer promotions, and activity summaries map to **Low Value**.
+- Account, security, and terms messages are excluded and left untouched.
+
+## Scoped audit counts
+
+| Gmail outcome | Messages |
+|---|---:|
+| Academic Signals/Current Research | 3 |
+| Academic Signals/Adjacent or Historical | 20 |
+| Academic Signals/Needs Review | 18 |
+| Promotions/Low Value | 40 |
+| Excluded and left untouched | 3 |
+| **Total** | **84** |
+
+Structured evidence: [promotions_audit_2026-06-15_to_2026-08-14.csv](./promotions_audit_2026-06-15_to_2026-08-14.csv)
+
+Notion cross-check: [Academic Identity Signal Audit](https://app.notion.com/p/3b677b24e716818db3e8f4101134afa4)
