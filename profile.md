@@ -18,7 +18,9 @@ Evidence:
 - Notion - Long-term Neural Decoding / Session Adaptation: https://app.notion.com/p/Long-term-Neural-Decoding-Session-Adaptation-3c177b24e71681e6ae65edeee5c8c4c6
 - Notion - Personalized Wearable Biosignal System: https://app.notion.com/p/Personalized-Wearable-Biosignal-System-3c177b24e7168163adbcc18b38491a43
 - Notion - Closed-loop Neural Interface for Rehabilitation: https://app.notion.com/p/Closed-loop-Neural-Interface-for-Rehabilitation-3c177b24e71681ada426cefb47a30c30
-
+- Publication record 1: Fedemg: Achieving generalization, personalization, and resource efficiency in emg-based upper-limb rehabilitation through federated prototype learning
+- Publication record 2: Few-shot prototype adaptation for generalizable electromyography gesture recognition
+- Publication record 3: EMGCipher: Decoding electromyography for upper-limb gesture classification with explainable AI for resource optimization
 
 ## Secondary / Adjacent
 
@@ -41,7 +43,13 @@ Evidence:
 - FedPML: https://github.com/Hunminlee/FedPML
 - Federated Prototype Adaptation Learning: https://github.com/Hunminlee/Federated-Prototype-Adaptation-Learning-for-modulation-classification
 - Notion - Federated Personalization for Biomedical Devices: https://app.notion.com/p/Federated-Personalization-for-Biomedical-Devices-3c177b24e716812b8e55c7a4eac3abac
-
+- Publication record 1: FedLC: Optimizing federated learning in non-IID data via label-wise clustering
+- Publication record 2: CLSM-FL: Clustering-based semantic federated learning in non-IID IoT environment
+- Publication record 3: FedVaccine: Robust federated learning in noisy and non-IID wireless network environments
+- Publication record 4: Federated prototype adaptation learning: Personalized and generalizable learning in distributed networks
+- Publication record 5: Fedpml: Federated prototype meta-learning for adaptation and generalization in distributed environments
+- Publication record 6: FedTTA: enabling robust federated test-time adaptation in adverse weather for distributed surveillance
+- Publication record 7: Robust convergence in federated learning through label-wise clustering
 
 ## Historical
 
@@ -53,7 +61,8 @@ This was an earlier line of work using graph neural networks to model relationsh
 
 Evidence:
 - EMG-based Gesture Classification using Graphs and GNN: https://github.com/Hunminlee/EMG-based-Gesture-Classification-using-Graphs-and-GNN
-- Publication record - Decoding Gestures in Electromyography: Spatiotemporal Graph Neural Networks for Generalizable and Interpretable Classification
+- Publication record: Decoding Gestures in Electromyography: Spatiotemporal Graph Neural Networks for Generalizable and Interpretable Classification
+
 
 ### Movement-disorder and multimodal physiological-signal analysis
 
@@ -63,6 +72,8 @@ This line analyzes inertial, EMG, and neural signals for movement-disorder and t
 
 Evidence:
 - PD_ET_Neural_inertial_decoding: https://github.com/Hunminlee/PD_ET_Neural_inertial_decoding
+- Publication record 1: Upper and Lower-Limb Motor Decoding for Adaptive and Generalized Neural Rehabilitation
+- Publication record 2: FedAssist: Federated learning in AI-powered prosthetics for sustainable and collaborative learning
 
 ### Capacitive / electric-field sensing and human-motion interfaces
 
@@ -71,7 +82,10 @@ ACM classification: B.4.2 - Input/Output Devices; H.5.2 - User Interfaces
 This earlier work focused on non-contact capacitive and electric-field sensing for hand-motion recognition and interface control.
 
 Evidence:
-- Publication record - Towards Utilization of Explainable Hand Motion Recognition in 3D Capacitive Proximity Sensing; A BPR-CNN Based Hand Motion Classifier Using Electric Field Sensors
+- Publication record 1: Towards Utilization of Explainable Hand Motion Recognition in 3D Capacitive Proximity Sensing; A BPR-CNN Based Hand Motion Classifier Using Electric Field Sensors
+- Publication record 2: Real-time hand motion frame extraction using electric potential sensors
+- Publication record 3: Real-time interface control with motion gesture recognition based on non-contact capacitive sensing
+
 
 ### AI for HRD and organizational analytics
 
@@ -83,7 +97,7 @@ Evidence:
 - Deciphering HRD Features in Competency: https://github.com/Hunminlee/Deciphering_HRD_features_in_competency
 - Integrating AI and Human Intelligence in HRD: https://github.com/Hunminlee/Integrating-AI-HI---HRD
 - HRD Environment Estimation: https://github.com/Hunminlee/HRD---Project2
-
+- Publication record 1: Using machine learning in HRD research: applications to advance AI-driven organizational analytics
 
 ### Smart-manufacturing anomaly detection
 
