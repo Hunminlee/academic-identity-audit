@@ -18,7 +18,7 @@ Evidence:
 - Notion - Long-term Neural Decoding / Session Adaptation: https://app.notion.com/p/Long-term-Neural-Decoding-Session-Adaptation-3c177b24e71681e6ae65edeee5c8c4c6
 - Notion - Personalized Wearable Biosignal System: https://app.notion.com/p/Personalized-Wearable-Biosignal-System-3c177b24e7168163adbcc18b38491a43
 - Notion - Closed-loop Neural Interface for Rehabilitation: https://app.notion.com/p/Closed-loop-Neural-Interface-for-Rehabilitation-3c177b24e71681ada426cefb47a30c30
-- Publication record: https://github.com/Hunminlee/Hunminlee.github.io/blob/main/publications.html
+
 
 ## Secondary / Adjacent
 
@@ -29,7 +29,6 @@ ACM classification: I.2.6 - Artificial Intelligence: Learning
 This direction studies how biosignal representations can be connected with language-derived semantic information through prototype, contrastive, and representation-learning methods. It is closely related to my current biosignal work but is not yet supported by the same breadth of recurring project evidence as the Current/Core area.
 
 Evidence:
-- Publication record - Bridging Biosignals and Semantics: Cross-Modal Contrastive Learning between EMG and Text: https://github.com/Hunminlee/Hunminlee.github.io/blob/main/publications.html
 - Notion - Language-Guided Biosignal Representation: https://app.notion.com/p/Language-Guided-Biosignal-Representation-3c177b24e716811f8186fedca185ba94
 
 ### Federated, prototype, and meta-learning
