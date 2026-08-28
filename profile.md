@@ -41,7 +41,7 @@ Evidence:
 - FedPML: https://github.com/Hunminlee/FedPML
 - Federated Prototype Adaptation Learning: https://github.com/Hunminlee/Federated-Prototype-Adaptation-Learning-for-modulation-classification
 - Notion - Federated Personalization for Biomedical Devices: https://app.notion.com/p/Federated-Personalization-for-Biomedical-Devices-3c177b24e716812b8e55c7a4eac3abac
-- Publication record for FedPML, FPAL, FedEMG, FedVaccine, CLSM-FL, and FedLC: https://github.com/Hunminlee/Hunminlee.github.io/blob/main/publications.html
+
 
 ## Historical
 
@@ -53,7 +53,7 @@ This was an earlier line of work using graph neural networks to model relationsh
 
 Evidence:
 - EMG-based Gesture Classification using Graphs and GNN: https://github.com/Hunminlee/EMG-based-Gesture-Classification-using-Graphs-and-GNN
-- Publication record - Decoding Gestures in Electromyography: Spatiotemporal Graph Neural Networks for Generalizable and Interpretable Classification: https://github.com/Hunminlee/Hunminlee.github.io/blob/main/publications.html
+- Publication record - Decoding Gestures in Electromyography: Spatiotemporal Graph Neural Networks for Generalizable and Interpretable Classification
 
 ### Movement-disorder and multimodal physiological-signal analysis
 
@@ -71,7 +71,7 @@ ACM classification: B.4.2 - Input/Output Devices; H.5.2 - User Interfaces
 This earlier work focused on non-contact capacitive and electric-field sensing for hand-motion recognition and interface control.
 
 Evidence:
-- Publication record - Towards Utilization of Explainable Hand Motion Recognition in 3D Capacitive Proximity Sensing; A BPR-CNN Based Hand Motion Classifier Using Electric Field Sensors: https://github.com/Hunminlee/Hunminlee.github.io/blob/main/publications.html
+- Publication record - Towards Utilization of Explainable Hand Motion Recognition in 3D Capacitive Proximity Sensing; A BPR-CNN Based Hand Motion Classifier Using Electric Field Sensors
 
 ### AI for HRD and organizational analytics
 
@@ -83,7 +83,7 @@ Evidence:
 - Deciphering HRD Features in Competency: https://github.com/Hunminlee/Deciphering_HRD_features_in_competency
 - Integrating AI and Human Intelligence in HRD: https://github.com/Hunminlee/Integrating-AI-HI---HRD
 - HRD Environment Estimation: https://github.com/Hunminlee/HRD---Project2
-- Publication record - Using Machine Learning in HRD Research: Applications to Advance AI-Driven Organizational Analytics: https://github.com/Hunminlee/Hunminlee.github.io/blob/main/publications.html
+
 
 ### Smart-manufacturing anomaly detection
 
